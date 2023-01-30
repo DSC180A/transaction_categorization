@@ -1,0 +1,828 @@
+,word,category,percent
+0,mcdonalds,Food and Beverages,1.0
+1,uber,Travel,0.95
+2,amzn,General Merchandise,0.98
+3,amzncombill,General Merchandise,0.98
+4,mktp,General Merchandise,0.99
+5,shell,Automotive,0.99
+6,starbucks,Food and Beverages,1.0
+7,amazon,General Merchandise,0.97
+8,google,General Merchandise,0.93
+9,taco,Food and Beverages,0.95
+10,dollar,General Merchandise,0.99
+11,applecombill,General Merchandise,1.0
+12,dunkin,Food and Beverages,1.0
+13,burger,Food and Beverages,1.0
+14,lyft,Travel,1.0
+15,pizza,Food and Beverages,0.99
+16,chickfila,Food and Beverages,1.0
+17,helpubercom,Travel,0.95
+18,ride,Travel,0.93
+19,amazoncom,General Merchandise,1.0
+20,speedway,Automotive,0.99
+21,netflixcom,Entertainment,1.0
+22,wendys,Food and Beverages,1.0
+23,publix,Groceries,1.0
+24,vending,Food and Beverages,0.92
+25,q35,Food and Beverages,0.99
+26,cafe,Food and Beverages,0.97
+27,subway,Food and Beverages,1.0
+28,oil,Automotive,0.95
+29,safeway,Groceries,0.98
+30,qt,Automotive,0.97
+31,chevron,Automotive,0.96
+32,sonic,Food and Beverages,0.98
+33,lyftcom,Travel,1.0
+34,sunoco,Automotive,1.0
+35,chipotle,Food and Beverages,1.0
+36,general,General Merchandise,0.96
+37,amzncombillwa,General Merchandise,0.99
+38,mktplace,General Merchandise,0.97
+39,coffee,Food and Beverages,0.99
+40,mcdonald,Food and Beverages,1.0
+41,spotify,Entertainment,1.0
+42,itunescombill,Entertainment,1.0
+43,whse,General Merchandise,0.97
+44,liquor,Food and Beverages,0.96
+45,gcohelppay,General Merchandise,0.94
+46,dominos,Food and Beverages,1.0
+47,afterpay,General Merchandise,1.0
+48,sheetz,Automotive,0.99
+49,exxonmobil,Automotive,1.0
+50,grill,Food and Beverages,0.98
+51,racetrac,Automotive,1.0
+52,hluhulu,Entertainment,1.0
+53,grocery,Groceries,0.91
+54,wholefds,Groceries,1.0
+55,bread,Food and Beverages,0.99
+56,pmts,General Merchandise,0.92
+57,aplitunescombill,Entertainment,1.0
+58,buy,General Merchandise,0.97
+59,marathon,Automotive,0.96
+60,usps,General Merchandise,1.0
+61,panera,Food and Beverages,1.0
+62,panda,Food and Beverages,0.99
+63,doordash,Food and Beverages,0.95
+64,kfc,Food and Beverages,1.0
+65,aldi,Groceries,0.96
+66,soda,Food and Beverages,0.98
+67,caesars,Food and Beverages,0.99
+68,amzncom,General Merchandise,0.98
+69,restaurant,Food and Beverages,0.97
+70,usacanteen,Food and Beverages,1.0
+71,usconnect,Food and Beverages,0.99
+72,meijer,Groceries,0.99
+73,itunescombi,Entertainment,0.95
+74,cmsvendcv,Food and Beverages,0.98
+75,dollargeneral,General Merchandise,0.99
+76,arbys,Food and Beverages,1.0
+77,vend,Food and Beverages,0.93
+78,lowes,General Merchandise,0.99
+79,wine,Food and Beverages,0.97
+80,whataburger,Food and Beverages,1.0
+81,petro,Automotive,0.95
+82,wwwdoordash,Food and Beverages,0.94
+83,popeyes,Food and Beverages,1.0
+84,trader,Groceries,0.98
+85,mexican,Food and Beverages,0.92
+86,ebay,General Merchandise,0.98
+87,hulucombill,Entertainment,1.0
+88,autozone,Automotive,0.99
+89,citgo,Automotive,0.91
+90,netflix,Entertainment,1.0
+91,beauty,General Merchandise,0.99
+92,usasnack,Food and Beverages,0.99
+93,markets,Groceries,0.94
+94,helpubercomca,Travel,0.95
+95,pilot,Automotive,0.96
+96,papa,Food and Beverages,0.96
+97,donuts,Food and Beverages,0.98
+98,kohls,General Merchandise,1.0
+99,albertsons,Groceries,0.93
+100,redbox,Entertainment,1.0
+101,nails,General Merchandise,0.98
+102,dvd,Entertainment,0.99
+103,jimmy,Food and Beverages,0.94
+104,petsmart,Pets/Pet Care,1.0
+105,technologies,Travel,0.97
+106,navy,General Merchandise,0.98
+107,ralphs,Groceries,0.96
+108,canteen,Food and Beverages,0.98
+109,liquors,Food and Beverages,0.99
+110,marshalls,General Merchandise,0.98
+111,raising,Food and Beverages,0.99
+112,winco,Groceries,0.99
+113,quiktrip,Automotive,0.99
+114,itunescom,Entertainment,0.95
+115,macys,General Merchandise,1.0
+116,sushi,Food and Beverages,0.99
+117,chicken,Food and Beverages,0.98
+118,wings,Food and Beverages,0.93
+119,bakery,Food and Beverages,0.98
+120,shoprite,Groceries,0.99
+121,canes,Food and Beverages,0.99
+122,oreilly,Automotive,0.99
+123,amzncombil,General Merchandise,0.98
+124,hardees,Food and Beverages,0.99
+125,china,Food and Beverages,0.96
+126,gatos,Entertainment,0.96
+127,meyer,Groceries,0.93
+128,petco,Pets/Pet Care,0.99
+129,zaxbys,Food and Beverages,0.98
+130,ampm,Automotive,0.91
+131,juice,Food and Beverages,0.98
+132,kitchen,Food and Beverages,0.97
+133,etsycom,General Merchandise,1.0
+134,goodwill,General Merchandise,1.0
+135,ihop,Food and Beverages,0.99
+136,smoothie,Food and Beverages,0.98
+137,bbq,Food and Beverages,0.98
+138,applecom,General Merchandise,1.0
+139,amazonprime,General Merchandise,0.94
+140,itunes,Entertainment,0.95
+141,bath,General Merchandise,0.91
+142,grubhubcom,Food and Beverages,0.99
+143,kum,Automotive,0.93
+144,jcpenney,General Merchandise,1.0
+145,office,General Merchandise,0.98
+146,billwa,General Merchandise,0.99
+147,bojangles,Food and Beverages,1.0
+148,chilis,Food and Beverages,1.0
+149,applebees,Food and Beverages,1.0
+150,vendin,Food and Beverages,0.92
+151,supply,General Merchandise,0.91
+152,wegmans,Groceries,0.99
+153,pollo,Food and Beverages,0.95
+154,tropical,Food and Beverages,0.95
+155,tacos,Food and Beverages,0.99
+156,sprouts,Groceries,0.99
+157,nordstrom,General Merchandise,1.0
+158,chick,Food and Beverages,0.99
+159,ulta,General Merchandise,0.93
+160,groupon,General Merchandise,1.0
+161,wwwamazonco,General Merchandise,1.0
+162,ddbr,Food and Beverages,0.98
+163,taqueria,Food and Beverages,0.99
+164,thai,Food and Beverages,0.97
+165,q07,Food and Beverages,0.99
+166,adobe,General Merchandise,0.97
+167,payments,General Merchandise,0.9
+168,diner,Food and Beverages,0.98
+169,wingstop,Food and Beverages,0.99
+170,culvers,Food and Beverages,0.99
+171,tjmaxx,General Merchandise,1.0
+172,parts,Automotive,0.95
+173,clips,General Merchandise,0.99
+174,winndixie,Groceries,1.0
+175,wwwdoordashca,Food and Beverages,0.94
+176,theatres,Entertainment,0.99
+177,staples,General Merchandise,0.99
+178,hulu,Entertainment,0.98
+179,dennys,Food and Beverages,0.99
+180,roku,Entertainment,0.98
+181,snack,Food and Beverages,0.97
+182,amzncomprme,General Merchandise,0.95
+183,audible,General Merchandise,0.9
+184,amznco,General Merchandise,0.98
+185,waffle,Food and Beverages,1.0
+186,soopers,Groceries,0.96
+187,chip,Food and Beverages,0.91
+188,wendy,Food and Beverages,0.99
+189,steak,Food and Beverages,0.98
+190,cents,General Merchandise,0.95
+191,hortons,Food and Beverages,0.98
+192,playrix,General Merchandise,0.93
+193,nail,General Merchandise,0.98
+194,tavern,Food and Beverages,0.9
+195,regal,Entertainment,0.96
+196,conoco,Automotive,0.96
+197,pizzeria,Food and Beverages,0.98
+198,nayax,Food and Beverages,0.93
+199,golf,Entertainment,0.92
+200,onlyfanscom,Entertainment,0.94
+201,salon,General Merchandise,0.96
+202,outside,Automotive,0.99
+203,buffet,Food and Beverages,0.98
+204,hyvee,Groceries,0.95
+205,lounge,Food and Beverages,0.91
+206,inside,Automotive,0.95
+207,auntie,Food and Beverages,0.99
+208,laundry,General Merchandise,0.99
+209,guys,Food and Beverages,0.98
+210,memotarget,General Merchandise,0.95
+211,supermarket,Groceries,0.91
+212,beer,Food and Beverages,0.95
+213,tractor,General Merchandise,0.98
+214,sally,General Merchandise,0.98
+215,cenex,Automotive,0.94
+216,chewycom,Pets/Pet Care,1.0
+217,forever,General Merchandise,0.96
+218,wok,Food and Beverages,0.99
+219,dollartree,General Merchandise,1.0
+220,pendingubercom,Travel,1.0
+221,texaco,Automotive,0.96
+222,sephora,General Merchandise,1.0
+223,applecombi,General Merchandise,1.0
+224,cinemark,Entertainment,1.0
+225,hannaford,Groceries,0.98
+226,disneyplus,Entertainment,0.96
+227,japanese,Food and Beverages,0.99
+228,barrel,Food and Beverages,0.92
+229,gco,General Merchandise,0.9
+230,draftkings,Entertainment,1.0
+231,cinemas,Entertainment,0.99
+232,mapco,Automotive,0.98
+233,ppapplecombill,General Merchandise,1.0
+234,grouponcom,General Merchandise,1.0
+235,jamba,Food and Beverages,1.0
+236,loco,Food and Beverages,0.96
+237,raceway,Automotive,0.98
+238,annes,Food and Beverages,0.98
+239,teeter,Groceries,1.0
+240,fandangocom,Entertainment,1.0
+241,bistro,Food and Beverages,0.96
+242,amzncombi,General Merchandise,0.98
+243,valero,Automotive,0.96
+244,amzncombillwaus,General Merchandise,0.97
+245,toyota,Automotive,0.95
+246,bagel,Food and Beverages,0.97
+247,spirits,Food and Beverages,0.98
+248,fredmeyer,Groceries,0.99
+249,donut,Food and Beverages,0.98
+250,chinese,Food and Beverages,0.91
+251,burgers,Food and Beverages,0.99
+252,dollarge,General Merchandise,0.99
+253,fil,Food and Beverages,0.96
+254,exxon,Automotive,0.99
+255,mkt,General Merchandise,0.97
+256,vape,General Merchandise,0.93
+257,firehouse,Food and Beverages,0.97
+258,roadhouse,Food and Beverages,0.98
+259,frozen,Food and Beverages,0.99
+260,turkey,Automotive,0.95
+261,amz,General Merchandise,0.98
+262,fredmeye,Groceries,0.99
+263,qsr,Food and Beverages,1.0
+264,httpsinstacar,Groceries,0.92
+265,hotel,Travel,0.95
+266,cracker,Food and Beverages,0.99
+267,q26,Food and Beverages,0.98
+268,italian,Food and Beverages,0.98
+269,wishcom,General Merchandise,1.0
+270,fanduel,Entertainment,1.0
+271,sxmsiriusxmcomacct,Entertainment,1.0
+272,ccbillcom,General Merchandise,0.99
+273,stnstore,Travel,0.93
+274,quik,Automotive,0.95
+275,bagels,Food and Beverages,1.0
+276,food4less,Groceries,0.99
+277,flexshopper,General Merchandise,1.0
+278,strs,General Merchandise,0.99
+279,viewca,General Merchandise,0.94
+280,brewing,Food and Beverages,0.97
+281,shake,Food and Beverages,0.97
+282,restaur,Food and Beverages,0.97
+283,beverage,Food and Beverages,0.94
+284,krispy,Food and Beverages,0.99
+285,1infiniteloop,General Merchandise,0.99
+286,lots,General Merchandise,0.9
+287,sqccash,General Merchandise,0.99
+288,olocom,Food and Beverages,0.99
+289,medical,Healthcare/Medical,0.93
+290,soop,Groceries,0.96
+291,doordashmcdonalds,Food and Beverages,1.0
+292,kreme,Food and Beverages,0.99
+293,braums,Food and Beverages,0.97
+294,helppay,General Merchandise,0.94
+295,itunescomb,Entertainment,0.95
+296,cream,Food and Beverages,0.97
+297,uberusa,Travel,1.0
+298,ppgoogle,General Merchandise,0.95
+299,restaurants,Food and Beverages,0.95
+300,restau,Food and Beverages,0.97
+301,secret,General Merchandise,0.98
+302,wholesale,General Merchandise,0.93
+303,q3,Food and Beverages,0.94
+304,qdoba,Food and Beverages,1.0
+305,tire,Automotive,0.91
+306,victorias,General Merchandise,0.97
+307,moes,Food and Beverages,0.91
+308,chopper,Groceries,0.98
+309,coinmach,General Merchandise,1.0
+310,shellshell,Automotive,1.0
+311,bestbuycom,General Merchandise,1.0
+312,restaura,Food and Beverages,0.97
+313,petroleum,Automotive,0.96
+314,shoe,General Merchandise,0.91
+315,spinx,Automotive,0.94
+316,aliexpress,General Merchandise,1.0
+317,itunesappst,Entertainment,1.0
+318,freddys,Food and Beverages,0.99
+319,restauran,Food and Beverages,0.97
+320,dollartre,General Merchandise,0.99
+321,kumgo,Automotive,0.99
+322,dental,Healthcare/Medical,0.94
+323,seamlesscom,Food and Beverages,0.99
+324,frysfood,Groceries,0.99
+325,noodles,Food and Beverages,1.0
+326,outback,Food and Beverages,0.99
+327,gcohelppayca,General Merchandise,0.97
+328,philly,Food and Beverages,0.95
+329,superamerica,Automotive,1.0
+330,resta,Food and Beverages,0.97
+331,poshmark,General Merchandise,0.99
+332,airbnb,Travel,1.0
+333,bestbuy,General Merchandise,1.0
+334,cheesecake,Food and Beverages,1.0
+335,charleys,Food and Beverages,0.97
+336,chevroncsi,Automotive,1.0
+337,afterpaycom,General Merchandise,1.0
+338,uspscom,General Merchandise,1.0
+339,suites,Travel,0.93
+340,burrito,Food and Beverages,0.98
+341,ckopatreon,Entertainment,0.98
+342,taxi,Travel,0.97
+343,spotifyusai,Entertainment,1.0
+344,cinema,Entertainment,0.98
+345,cabana,Food and Beverages,0.98
+346,patreon,Entertainment,0.99
+347,gril,Food and Beverages,0.98
+348,steaknshake,Food and Beverages,1.0
+349,nikecom,General Merchandise,1.0
+350,namepetal,Healthcare/Medical,1.0
+351,cafeteria,Food and Beverages,0.99
+352,hibachi,Food and Beverages,0.99
+353,coff,Food and Beverages,0.98
+354,ppdutch,Food and Beverages,0.92
+355,fedex,General Merchandise,1.0
+356,ppitunescombill,Entertainment,1.0
+357,staterbros,Groceries,0.92
+358,fuels,Automotive,0.98
+359,freight,General Merchandise,0.98
+360,vacuum,Automotive,0.99
+361,caf,Food and Beverages,0.95
+362,etsy,General Merchandise,1.0
+363,cleaners,General Merchandise,0.99
+364,sunpassacc,Travel,1.0
+365,hardware,General Merchandise,0.99
+366,japan,Food and Beverages,0.94
+367,dnhgodaddycom,General Merchandise,1.0
+368,5guys,Food and Beverages,1.0
+369,baskin,Food and Beverages,0.99
+370,domino,Food and Beverages,1.0
+371,uhaul,Travel,0.92
+372,fandango,Entertainment,1.0
+373,carpay,Automotive,0.99
+374,qfc,Groceries,0.92
+375,chef,Food and Beverages,0.93
+376,honda,Automotive,0.95
+377,movie,Entertainment,0.96
+378,caribou,Food and Beverages,0.94
+379,lobster,Food and Beverages,0.98
+380,frysfooddrg,Groceries,0.99
+381,aspire,Entertainment,0.96
+382,pirate,Food and Beverages,0.91
+383,dmv,Automotive,0.96
+384,mercari,General Merchandise,0.92
+385,grille,Food and Beverages,0.98
+386,experian,General Merchandise,1.0
+387,vendi,Food and Beverages,0.92
+388,longhorn,Food and Beverages,0.97
+389,reload,Food and Beverages,0.96
+390,hotelscom,Travel,0.97
+391,espresso,Food and Beverages,0.99
+392,catering,Food and Beverages,1.0
+393,teriyaki,Food and Beverages,0.98
+394,niantic,General Merchandise,0.96
+395,coffe,Food and Beverages,0.98
+396,chili,Food and Beverages,0.97
+397,ppdutchbrosll,Food and Beverages,0.91
+398,tools,General Merchandise,0.97
+399,coldstone,Food and Beverages,0.98
+400,piz,Food and Beverages,0.99
+401,cuisine,Food and Beverages,0.99
+402,hulucombillca,Entertainment,1.0
+403,mvm,Travel,0.96
+404,sears,General Merchandise,0.96
+405,pizz,Food and Beverages,0.99
+406,descri2cbc,Healthcare/Medical,1.0
+407,doordashtaco,Food and Beverages,1.0
+408,lube,Automotive,0.96
+409,vuducom,Entertainment,0.98
+410,hungry,Food and Beverages,0.95
+411,rutters,Automotive,0.98
+412,chipotlecom,Food and Beverages,1.0
+413,spot,Entertainment,0.9
+414,java,Food and Beverages,0.97
+415,arcoarco,Automotive,0.96
+416,saloon,Food and Beverages,0.94
+417,brea,Food and Beverages,0.91
+418,beverages,Food and Beverages,1.0
+419,clinic,Healthcare/Medical,0.91
+420,carmax,Automotive,1.0
+421,checkers,Food and Beverages,0.95
+422,facebk,General Merchandise,0.94
+423,wwwapplecom,General Merchandise,1.0
+424,fedexoffice,General Merchandise,1.0
+425,liquo,Food and Beverages,0.95
+426,tgi,Food and Beverages,0.91
+427,sephoracom,General Merchandise,1.0
+428,krystal,Food and Beverages,0.98
+429,imprl,Food and Beverages,0.98
+430,microsoftultimate,General Merchandise,1.0
+431,cinnabon,Food and Beverages,1.0
+432,drivein,Food and Beverages,0.94
+433,produce,Groceries,0.94
+434,genesisfs,General Merchandise,0.93
+435,fridays,Food and Beverages,0.96
+436,burlngton,General Merchandise,0.97
+437,tickets,Entertainment,0.93
+438,amzncombilwa,General Merchandise,0.99
+439,httpsipcha,Food and Beverages,1.0
+440,mcalisters,Food and Beverages,1.0
+441,avenel,Food and Beverages,0.92
+442,10pm,Travel,0.93
+443,usavend,Food and Beverages,0.92
+444,taste,Food and Beverages,0.95
+445,shave,General Merchandise,0.94
+446,jewelosco,Groceries,0.96
+447,grocers,Groceries,1.0
+448,11pm,Travel,0.92
+449,jcp,General Merchandise,1.0
+450,roblox,General Merchandise,0.99
+451,caffe,Food and Beverages,0.96
+452,doordashchipotle,Food and Beverages,1.0
+453,belk,General Merchandise,0.98
+454,supercell,General Merchandise,0.99
+455,massage,General Merchandise,0.99
+456,potbelly,Food and Beverages,0.97
+457,dillards,General Merchandise,1.0
+458,topic,General Merchandise,0.99
+459,marianos,Groceries,0.94
+460,supermar,Groceries,0.92
+461,helphbomaxcom,General Merchandise,0.98
+462,cryptocom,General Merchandise,0.98
+463,peets,Food and Beverages,0.98
+464,doordashcom,Food and Beverages,0.93
+465,wines,Food and Beverages,0.97
+466,theatre,Entertainment,0.95
+467,wwwcvscom,Healthcare/Medical,0.92
+468,tjx,General Merchandise,0.98
+469,hdwe,General Merchandise,0.98
+470,99centsonly,General Merchandise,0.97
+471,supercuts,General Merchandise,0.98
+472,expedia,Travel,1.0
+473,crab,Food and Beverages,0.94
+474,doordashwendys,Food and Beverages,1.0
+475,crh,Food and Beverages,0.92
+476,qvc,General Merchandise,0.99
+477,3avenue,Food and Beverages,1.0
+478,itunescombil,Entertainment,0.94
+479,irish,Food and Beverages,0.94
+480,murphys,Food and Beverages,0.92
+481,bargain,General Merchandise,0.93
+482,q99,Food and Beverages,0.98
+483,liq,Food and Beverages,0.93
+484,memomcdonalds,Food and Beverages,1.0
+485,rentacar,Travel,1.0
+486,cantina,Food and Beverages,0.97
+487,12pm,Travel,0.92
+488,10am,Travel,0.93
+489,affirmcom,General Merchandise,0.93
+490,wwwkohlscom,General Merchandise,1.0
+491,dscdollar,General Merchandise,0.97
+492,dutch,Food and Beverages,0.9
+493,cane,Food and Beverages,0.9
+494,jasons,Food and Beverages,0.94
+495,hooters,Food and Beverages,0.97
+496,sxmsiriusxmcoma,Entertainment,1.0
+497,locker,General Merchandise,0.91
+498,zumiez,General Merchandise,1.0
+499,supermark,Groceries,0.92
+500,marriott,Travel,0.96
+501,noodle,Food and Beverages,0.99
+502,sqcsquare,General Merchandise,0.91
+503,moviepass,Entertainment,1.0
+504,11am,Travel,0.98
+505,cnkcinemarkcom,Entertainment,1.0
+506,liqu,Food and Beverages,0.94
+507,hulucom,Entertainment,1.0
+508,drg,Groceries,0.96
+509,clothing,General Merchandise,0.95
+510,tmobileauto,Automotive,1.0
+511,mexica,Food and Beverages,0.92
+512,viewcaus,General Merchandise,0.93
+513,samsclubcom,General Merchandise,0.95
+514,raleys,Groceries,0.91
+515,closet,General Merchandise,0.92
+516,savealot,Groceries,1.0
+517,lidl,Groceries,0.97
+518,stitch,General Merchandise,0.97
+519,movers,General Merchandise,1.0
+520,httpsinstacarca,Groceries,0.98
+521,payfbcom,Food and Beverages,0.97
+522,njt,Travel,0.92
+523,einstein,Food and Beverages,0.95
+524,bollinger,Automotive,0.95
+525,eatery,Food and Beverages,0.97
+526,portillos,Food and Beverages,0.96
+527,zipcar,Travel,1.0
+528,expediacom,Travel,1.0
+529,oldn,General Merchandise,0.96
+530,12am,Travel,0.91
+531,gcowalleth,General Merchandise,1.0
+532,orderwishcom,General Merchandise,1.0
+533,chevrongm,Automotive,1.0
+534,raley,Groceries,0.92
+535,5avi,Food and Beverages,0.96
+536,steakhouse,Food and Beverages,0.97
+537,howies,Food and Beverages,0.97
+538,salad,Food and Beverages,0.91
+539,usausacanteen,Food and Beverages,1.0
+540,pretzels,Food and Beverages,0.98
+541,wetzels,Food and Beverages,0.94
+542,youtubepremium,General Merchandise,1.0
+543,cancel,Travel,0.97
+544,shipley,Food and Beverages,0.96
+545,zulily,General Merchandise,1.0
+546,electronics,General Merchandise,0.99
+547,stardust,Entertainment,0.96
+548,staterbro,Groceries,0.91
+549,cookies,Food and Beverages,1.0
+550,storecard,General Merchandise,0.93
+551,helpuberc,Travel,0.95
+552,bww,Food and Beverages,0.97
+553,scooters,Food and Beverages,0.92
+554,helppayca,General Merchandise,0.97
+555,helpubercomcaus,Travel,0.94
+556,envy,General Merchandise,0.99
+557,rides,Travel,0.96
+558,ticket,Entertainment,0.92
+559,adblcobill,General Merchandise,0.94
+560,ppdoordash,Food and Beverages,0.97
+561,platos,General Merchandise,0.97
+562,fried,Food and Beverages,0.97
+563,korean,Food and Beverages,0.97
+564,petrol,Automotive,0.96
+565,idgoogle,General Merchandise,0.91
+566,cmsvend,Food and Beverages,0.96
+567,sarku,Food and Beverages,0.99
+568,doordashthe,Food and Beverages,0.99
+569,cajun,Food and Beverages,0.94
+570,veterinary,Pets/Pet Care,0.91
+571,amznc,General Merchandise,0.98
+572,sxmsiriusxmcom,Entertainment,1.0
+573,sbarro,Food and Beverages,1.0
+574,grubhubfood,Food and Beverages,1.0
+575,transferred,General Merchandise,1.0
+576,journeys,General Merchandise,1.0
+577,harkins,Entertainment,0.9
+578,ebayincship,General Merchandise,0.97
+579,cof,Food and Beverages,0.97
+580,pendinguber,Travel,1.0
+581,wienerschnitzel,Food and Beverages,0.98
+582,chickfil,Food and Beverages,1.0
+583,mcd,Food and Beverages,0.99
+584,chevronterrible,Automotive,1.0
+585,foodtown,Groceries,1.0
+586,foodland,Groceries,1.0
+587,grubhub,Food and Beverages,0.97
+588,zaxby,Food and Beverages,0.98
+589,sheincom,General Merchandise,1.0
+590,microsoftstore,General Merchandise,1.0
+591,meye,Groceries,0.93
+592,fareway,Groceries,0.97
+593,oncue,Automotive,0.98
+594,steaks,Food and Beverages,0.96
+595,habit,Food and Beverages,0.94
+596,custard,Food and Beverages,1.0
+597,biggby,Food and Beverages,1.0
+598,suitland,Food and Beverages,0.92
+599,cicis,Food and Beverages,1.0
+600,tires,Automotive,0.95
+601,bealls,General Merchandise,0.97
+602,glu,General Merchandise,0.91
+603,ecom,General Merchandise,0.9
+604,lws,General Merchandise,1.0
+605,shoes,General Merchandise,0.97
+606,pasta,Food and Beverages,0.99
+607,ljs,Food and Beverages,0.96
+608,favor,Food and Beverages,0.9
+609,eurest,Food and Beverages,0.95
+610,bottling,Food and Beverages,0.97
+611,xboxlive,Entertainment,0.93
+612,vioc,Automotive,0.98
+613,stinker,Automotive,1.0
+614,accnt,Food and Beverages,1.0
+615,rouses,Groceries,0.98
+616,offic,General Merchandise,0.97
+617,sandwich,Food and Beverages,0.96
+618,doordashchickfila,Food and Beverages,1.0
+619,pret,Food and Beverages,0.93
+620,jcpenneycom,General Merchandise,1.0
+621,yogurt,Food and Beverages,0.96
+622,peakgames,General Merchandise,0.98
+623,wish,General Merchandise,0.96
+624,thyme,Groceries,0.91
+625,dickeys,Food and Beverages,1.0
+626,ccgooglecom,General Merchandise,0.99
+627,cheddars,Food and Beverages,0.98
+628,squarespace,General Merchandise,0.93
+629,phantom,General Merchandise,0.93
+630,dnkn,Food and Beverages,1.0
+631,ozone,Automotive,0.95
+632,pets,Pets/Pet Care,0.98
+633,hsnhsn,General Merchandise,0.98
+634,burritos,Food and Beverages,0.93
+635,beans,Food and Beverages,0.93
+636,barbq,Food and Beverages,1.0
+637,smashburger,Food and Beverages,1.0
+638,bpbp,Automotive,0.96
+639,brewery,Food and Beverages,1.0
+640,motel,Travel,0.95
+641,superma,Groceries,0.92
+642,memostarbucks,Food and Beverages,1.0
+643,manger,Food and Beverages,1.0
+644,bashas,Groceries,1.0
+645,jewelry,General Merchandise,0.97
+646,photogphy,General Merchandise,0.96
+647,xboxl,Entertainment,0.91
+648,superm,Groceries,0.91
+649,adidas,General Merchandise,1.0
+650,kitc,Food and Beverages,0.96
+651,oculus,General Merchandise,1.0
+652,desstorecard,General Merchandise,0.96
+653,arby,Food and Beverages,0.97
+654,smokers,General Merchandise,0.96
+655,buckys,Automotive,0.98
+656,cookie,Food and Beverages,0.98
+657,serviceskindle,General Merchandise,1.0
+658,vehicle,Automotive,0.91
+659,corral,Food and Beverages,0.95
+660,insomnia,Food and Beverages,0.98
+661,torchys,Food and Beverages,1.0
+662,wwwwishcom,General Merchandise,1.0
+663,property,General Merchandise,0.98
+664,changs,Food and Beverages,1.0
+665,foodmaxx,Groceries,1.0
+666,helpuberco,Travel,0.95
+667,doordashburger,Food and Beverages,1.0
+668,hotels,Travel,0.97
+669,bueno,Food and Beverages,0.96
+670,sunpass,Travel,0.97
+671,fordcredit,Automotive,1.0
+672,paypoint,Automotive,0.94
+673,urgent,Healthcare/Medical,0.94
+674,chocolate,Food and Beverages,1.0
+675,sherwin,General Merchandise,1.0
+676,pretzel,Food and Beverages,0.99
+677,nissan,Automotive,0.96
+678,boba,Food and Beverages,0.91
+679,rosas,Food and Beverages,0.98
+680,lukoil,Automotive,1.0
+681,pepboys,Automotive,0.91
+682,usm,General Merchandise,0.98
+683,usavending,Food and Beverages,1.0
+684,automotive,Automotive,0.98
+685,rentacenter,General Merchandise,0.96
+686,aeropostale,General Merchandise,0.98
+687,louie,Food and Beverages,0.97
+688,jets,Food and Beverages,1.0
+689,stamps,General Merchandise,1.0
+690,weigels,Automotive,1.0
+691,ispapimds,Food and Beverages,0.92
+692,funimation,General Merchandise,0.94
+693,scgc,Automotive,1.0
+694,claires,General Merchandise,0.94
+695,craigslistorg,General Merchandise,1.0
+696,gcohelppaycaus,General Merchandise,0.96
+697,scopely,General Merchandise,1.0
+698,tfs,Automotive,1.0
+699,barbershop,General Merchandise,0.94
+700,lids,General Merchandise,1.0
+701,smithsfuel,Automotive,1.0
+702,bmw,Automotive,0.98
+703,applecomus,General Merchandise,1.0
+704,chevro,Automotive,0.96
+705,tillys,General Merchandise,0.98
+706,1infiniteloopca,General Merchandise,0.96
+707,usasoda,Food and Beverages,0.98
+708,laund,General Merchandise,0.97
+709,cardenas,Groceries,0.93
+710,tasty,Food and Beverages,0.96
+711,pancake,Food and Beverages,0.98
+712,coin,General Merchandise,0.91
+713,gener,General Merchandise,0.95
+714,kangaroo,Automotive,0.91
+715,ultacom,General Merchandise,1.0
+716,dough,Food and Beverages,0.98
+717,bamboo,Food and Beverages,0.98
+718,idlyft,Travel,1.0
+719,barkbox,Pets/Pet Care,0.98
+720,goat,Food and Beverages,0.94
+721,outftr,General Merchandise,1.0
+722,boutique,General Merchandise,0.94
+723,door,Food and Beverages,0.94
+724,memotaco,Food and Beverages,1.0
+725,tvm,Travel,0.93
+726,rovio,General Merchandise,0.96
+727,schlotzskys,Food and Beverages,0.98
+728,tequila,Food and Beverages,0.96
+729,instacartaldi,Groceries,0.91
+730,deschg,General Merchandise,1.0
+731,amtrak,Travel,0.98
+732,fiverr,General Merchandise,0.98
+733,continental,Food and Beverages,0.94
+734,tortilla,Food and Beverages,1.0
+735,barkco,Pets/Pet Care,0.95
+736,grub,Food and Beverages,0.95
+737,grilled,Food and Beverages,1.0
+738,memosafeway,Groceries,1.0
+739,outfitters,General Merchandise,0.94
+740,mellow,Food and Beverages,0.98
+741,savemart,Groceries,1.0
+742,rallys,Food and Beverages,1.0
+743,boxycharm,General Merchandise,0.98
+744,daddys,Food and Beverages,0.93
+745,doordashpanda,Food and Beverages,0.98
+746,senor,Food and Beverages,0.98
+747,retailpay,Automotive,1.0
+748,airlines,Travel,0.95
+749,directpay,Automotive,1.0
+750,deltacom,Travel,1.0
+751,ticketmaster,Entertainment,1.0
+752,fuji,Food and Beverages,0.98
+753,yogurtland,Food and Beverages,1.0
+754,hlu,Entertainment,0.99
+755,jewelers,General Merchandise,0.98
+756,gyros,Food and Beverages,0.98
+757,amzncombillnj,General Merchandise,1.0
+758,amzncomb,General Merchandise,0.98
+759,flame,Food and Beverages,0.94
+760,crunchyroll,Entertainment,0.95
+761,philz,Food and Beverages,1.0
+762,motors,Automotive,0.92
+763,bnei,General Merchandise,1.0
+764,ccvnd,Food and Beverages,1.0
+765,popeye,Food and Beverages,1.0
+766,facebook,General Merchandise,0.97
+767,foodsco,Groceries,0.92
+768,playtika,General Merchandise,0.93
+769,nothing,Food and Beverages,0.95
+770,herbst,Automotive,1.0
+771,iditunesappst,Entertainment,1.0
+772,rubios,Food and Beverages,1.0
+773,conserv,Automotive,0.92
+774,gyro,Food and Beverages,0.98
+775,acropro,General Merchandise,0.95
+776,barbecue,Food and Beverages,1.0
+777,roast,Food and Beverages,0.96
+778,slice,Food and Beverages,0.95
+779,cmsvendprestige,Food and Beverages,1.0
+780,fazolis,Food and Beverages,1.0
+781,vieca,General Merchandise,0.95
+782,pbc,Food and Beverages,0.96
+783,hulucombilca,Entertainment,1.0
+784,cigarette,General Merchandise,1.0
+785,supportgoogl,General Merchandise,0.95
+786,supermarke,Groceries,0.9
+787,chickens,Food and Beverages,1.0
+788,slingcom,Entertainment,1.0
+789,hxsollacom,General Merchandise,0.98
+790,breakfast,Food and Beverages,0.97
+791,doordashsubway,Food and Beverages,1.0
+792,healthcare,Healthcare/Medical,0.96
+793,wixcom,General Merchandise,1.0
+794,gelsons,Groceries,1.0
+795,julians,Food and Beverages,1.0
+796,maxoffi,General Merchandise,1.0
+797,ritas,Food and Beverages,0.93
+798,whiskey,Food and Beverages,0.9
+799,youtubepre,General Merchandise,1.0
+800,robertos,Food and Beverages,1.0
+801,acevn,Food and Beverages,1.0
+802,mht,General Merchandise,0.95
+803,microsoftmicrosoft,General Merchandise,1.0
+804,netflixc,Entertainment,1.0
+805,patient,Healthcare/Medical,0.98
+806,cocina,Food and Beverages,1.0
+807,hunan,Food and Beverages,1.0
+808,amoco,Automotive,0.99
+809,connect,Food and Beverages,0.9
+810,helpub,Travel,0.95
+811,gasoline,Automotive,0.94
+812,topgolf,Entertainment,0.94
+813,installments,General Merchandise,1.0
+814,vudu,Entertainment,0.94
+815,hls,General Merchandise,0.95
+816,mandarin,Food and Beverages,0.95
+817,ichiban,Food and Beverages,1.0
+818,memouber,Travel,0.95
+819,samsungelectronics,General Merchandise,1.0
+820,dropbox,General Merchandise,1.0
+821,jpay,General Merchandise,1.0
+822,saigon,Food and Beverages,0.9
+823,wwwdoordashcaus,Food and Beverages,0.97
+824,bpck,Automotive,0.98
+825,mexic,Food and Beverages,0.9
+826,imperfect,Groceries,0.97
