@@ -2,8 +2,10 @@
 
 import pickle as pkl
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
 import sys
+import xgboost as xgb
+import numpy as np
+
 
 
 def main(targets):
@@ -15,17 +17,18 @@ def main(targets):
     '''
     predictions_fp = 'predictions.csv'
     if 'test' in targets:
-        data = pd.read_csv('test/testdata.csv')
+        text_data = pd.read_csv('test/text_test_data.csv')['Cleaned Text'].fillna('')
+        non_text_data = pd.read_csv('test/non_text_test_data.csv')
 
+        text_model = pkl.load(open('test/models/text_model.pkl', 'rb'))
+        non_text_model = pkl.load(open('test/models/non_text_model.pkl', 'rb'))
 
-        X_test = data['Cleaned Text']
-        y_test = data['new_category']
+        text_proba = text_model.predict_proba(text_data)
+        non_text_proba = non_text_model.predict_proba(non_text_data)
 
-        text_model = pkl.load(open('src/data/text_model.pkl', 'rb'))
+        ensemble_proba = text_proba * 0.9 + non_text_proba * 0.1
 
-        text_proba = pd.Series(pklmodel.predict_proba(X_test))
-
-
+        predictions = pd.Series(np.argmax(ensemble_proba, axis=1))
 
         predictions.to_csv(predictions_fp, index_label=False)
 
